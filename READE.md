@@ -1,23 +1,36 @@
 
-# Python Projects 🐍
+# 🐍 Python Projects
 
-Welcome to my Python programming portfolio!
+Welcome to my Python development portfolio!
 
-I am learning Python development and database management.
+I am an aspiring Python developer interested in
+software development and database management.
 
-## Skills
+## 🛠️ Skills
 - Python
-- Tkinter
 - MySQL
 - SQL
+- Tkinter
 - DBMS
 
-## My Projects
-1. Phonebook Management System
-2. Calculator using Tkinter
-3. Student Management System
-4. Expense Tracker
+## 🚀 Projects
 
-## About Me
-Aspiring Python Developer interested in
-software development and database applications.
+### 1. Simple Calculator
+A command-line calculator developed using Python.
+
+**Features:**
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Division-by-zero handling
+
+**Technology:** Python
+
+## 🎯 Goals
+- Improve Python programming
+- Learn advanced SQL
+- Build real-world applications
+- Develop database management systems
+
+
